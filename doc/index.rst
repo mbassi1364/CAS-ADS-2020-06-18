@@ -15,3 +15,7 @@ word-count
    usage.rst
    credit.rst
    exercises.rst
+
+
+and that's all?
+---------------
